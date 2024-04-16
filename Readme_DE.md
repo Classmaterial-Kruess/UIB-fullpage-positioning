@@ -16,8 +16,8 @@ auch deine Lehrer darfst du gerne fragen ;)
 1. Versuche das obere Bild so genau wie möglich auszurichten, wie im Vorschaubild und den Schriftzug mittig zu positionieren
 2. Die Navigationsleiste sollte beim Scrollen immer am oberen Rand der Seite zu sehen sein.
 3. Überlege dir eine Stuktur, für den nächsten Abschnitt.
-  - Erstelle die 4 Cards und die Optische trennlinie mit den 4 farbigen Punkten
-  - Beachte hierbei, dass es verschiedene Wege gibt dies Umzusetzen (Die Pseudo-Elemente `::before` und `::after` können nützlich sein, aber kein Muss!)
+    - Erstelle die 4 Cards und die Optische trennlinie mit den 4 farbigen Punkten
+    - Beachte hierbei, dass es verschiedene Wege gibt dies Umzusetzen (Die Pseudo-Elemente `::before` und `::after` können nützlich sein, aber kein Muss!)
 3. Die unteren farbigen Cards sollten einen hover Effect haben, der dafür sorgt, dass die Card vollständig sichtbar und Lesbar ist.
 
 ### Bonus
