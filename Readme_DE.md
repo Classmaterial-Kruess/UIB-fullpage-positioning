@@ -1,17 +1,31 @@
-# Freiberufliche Position
+# UIB-fullpage-position
 
-Nutzen wir die Vorteile von Positionierung und Flexbox, um das folgende Referenzbild zu erstellen.
+Die Aufgabe ist es das Referenzbild nachzubauen. versuche mit dem bisher gelernten und in Eigenrecherche die Webseite so gut es geht nachzubauen.
+auch deine Lehrer darfst du gerne fragen ;)
 
-![Der Überblick](./images/desktop.png "Der allgemeine Überblick")
+## Infos/Tipps
 
-## Die Online-Version
+- Vermeide Angaben wie 100vw 100svw 100lvw !!!
+- Verwende sematische Elemente, wo möglich.
+- Verwende die `position` Property nur da wo es nötig ist!
+- Baue dir Hilfscontainer um Elemente leichter Ausrichten zu können
+- Es gibt mehr als einen Weg um die Webseite auszubauen, daher gibt es keine **richtige Lösung**!
 
-Um die Live-Version zu sehen, musst du nur [klicken...!](https://hsnakk.github.io/UIB_Layout_Position_Exercise-1/)
+## Aufgaben
 
-### Behalte im Hinterkopf
+1. Versuche das obere Bild so genau wie möglich auszurichten, wie im Vorschaubild und den Schriftzug mittig zu positionieren
+2. Die Navigationsleiste sollte beim Scrollen immer am oberen Rand der Seite zu sehen sein.
+3. Überlege dir eine Stuktur, für den nächsten Abschnitt.
+  - Erstelle die 4 Cards und die Optische trennlinie mit den 4 farbigen Punkten
+  - Beachte hierbei, dass es verschiedene Wege gibt dies Umzusetzen (Die Pseudo-Elemente `::before` und `::after` können nützlich sein, aber kein Muss!)
+3. Die unteren farbigen Cards sollten einen hover Effect haben, der dafür sorgt, dass die Card vollständig sichtbar und Lesbar ist.
 
-- Die Schaltfläche **HOME** ist immer an der gleichen Stelle wie in der Online-Version
-- Die drei Karten am unteren Rand ändern ihren `z-index` bei `:hover`
-- Die Pseudo-Elemente `::before` und `::after` sind nützlich, um die vier Punkte im Hauptteil zu erzeugen ;)
+### Bonus
 
-Viel Glück und viel Spaß!
+Um mit einem Klick auf ein Element zu einem bestimmten Punkt einer Webseite zu springen nutzt man einen sogenannten Bookmark-Jump. (Back to Top Button)
+
+1. Gebe dem Button im `Footer` einen Bookmark-Jump um wider zum Anfang der Seite zu springen.
+2. Baue einen weiteren Bookmark-Jump in den About Button in der Navbar ein um zum Hauptteil zu springen (die 4 Cards mit den 4 Punkten)
+3. Füge einen Weiteren Bookmark-Jump im Home Button ein um ebenfalls zum Anfang der Page zurück zu springen
+
+Viel Spaß beim Basteln ;)
