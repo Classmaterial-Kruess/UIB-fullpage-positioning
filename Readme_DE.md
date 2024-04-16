@@ -9,7 +9,7 @@ auch deine Lehrer darfst du gerne fragen ;)
 - Verwende sematische Elemente, wo möglich.
 - Verwende die `position` Property nur da wo es nötig ist!
 - Baue dir Hilfscontainer um Elemente leichter Ausrichten zu können
-- Es gibt mehr als einen Weg um die Webseite auszubauen, daher gibt es keine **richtige Lösung**!
+- Es gibt mehr als einen Weg um die Webseite nachzubauen, daher gibt es keine **richtige Lösung**!
 
 ## Aufgaben
 
