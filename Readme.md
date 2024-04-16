@@ -1,28 +1,33 @@
 # FUIB-Fullpage-Position
 
-Let's take advantage of positioning and Flexbox to recreate the reference image below -
+The task is to recreate the reference image. Try to recreate the website as best you can using what you have learned so far and through your own research. You are also welcome to ask your teachers ;)-
 
 ![The overview](./images/desktop.png "The general overview")
 
-## Keep in Mind
+## Indeas and Tipps
 
-- The hero section at the top of the page should use the `header.jpg` image supplied in the `images` folder.
-- Use semantic tags i.e. `<header>`, `<nav>` etc.
-- The **HOME** button is always in the same position, as shown in the online version.
-- `::before` and `::after` pseudo elements should be used to create the four dots in the main section ;)
-- For the three cards at the bottom change their `z-index` on `:hover`
+- Avoid information like 100vw 100svw 100lvw!!!
+- Use sematic elements where possible.
+- Use the position property only where necessary!
+- Build auxiliary containers to make it easier to align elements
+- There is more than one way to recreate the website, so there is no right solution!
 
 ## Tasks
 **try to rebuild the page like the example image**
 
-1. Create the image at the to as near as you can to the original image
-2. postion the text at the middel of the image
-3. create the navigationbar the links sould have a hover effect
-4. Think about a way to find a way for the position of the middel line and the colored dots.
+1. Try to align the top image as accurately as possible, as in the preview image, and position the lettering in the middle
+2. The navigation bar should always be visible at the top of the page when scrolling.
+3. Think about a structure for the next section.
+    - Create the 4 cards and the optical dividing line with the 4 colored dots
+    - Please note that there are different ways to implement this (the pseudo-elements ::before and ::after can be useful, but not a must!)
+4. The bottom colored cards should have a hover effect, which ensures that the card is completely visible and readable.
 
 ## Bonus
 
-1. The Navbar should always stay at the to if you are scrolling down
-2. Try to use a hover effect for the colored cards at the bottom. If you hover about one of the cards, the card should be in front to read the whole text.
+To jump to a specific point on a website by clicking on an element, you use a so-called bookmark jump. (Back to Top Button)
+
+1. Give the button in the footer a bookmark jump to jump back to the top of the page.
+2. Add another bookmark jump to the About button in the navbar to jump to the main part (the 4 cards with the 4 dots)
+3. Insert another bookmark jump in the home button to also jump back to the beginning of the page
 
 Good luck and have fun!
