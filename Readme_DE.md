@@ -1,7 +1,9 @@
 # UIB-fullpage-position
 
 Die Aufgabe ist es das Referenzbild nachzubauen. versuche mit dem bisher gelernten und in Eigenrecherche die Webseite so gut es geht nachzubauen.
-auch deine Lehrer darfst du gerne fragen ;)
+Auch deine Lehrer darfst du gerne fragen ;)
+
+![Referenzbild](./images/desktop.png "The general overview")
 
 ## Infos/Tipps
 
